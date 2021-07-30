@@ -1,0 +1,4 @@
+#Fri Jul 30 17:03:31 BRT 2021
+base.0=/Users/celsoricardimatiazi/Desktop/todo_list_af/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
